@@ -1,4 +1,4 @@
-const TIPO_ROJO = "Rojo";
+const TIPO_ROJO = "Azul";
 const TIPO_COMBI = "Combi";
 
 const Constantes = {
