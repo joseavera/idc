@@ -6,7 +6,7 @@
         Código fuente disponible en <a href="https://parzibyte.me/blog">parzibyte.me/blog</a>
       </p>
       <h2>Créditos</h2>
-      <p> Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
+      <p> Iconos diseñados por: <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
           href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a>
       </p>
     </v-alert>
