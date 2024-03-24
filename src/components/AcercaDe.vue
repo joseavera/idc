@@ -2,7 +2,7 @@
   <v-card class="py-6 px-6" flat>
     <v-alert type="info">
       <h2>Acerca de</h2>
-      <p>Creado y mantenido por <a class="text-button" href="https://parzibyte.me/blog">Parzibyte</a>.
+      <p>Creado y mantenido por: <a class="text-button" href="https://parzibyte.me/blog">Parzibyte</a>.
         Código fuente disponible en <a href="https://parzibyte.me/blog">parzibyte.me/blog</a>
       </p>
       <h2>Créditos</h2>
